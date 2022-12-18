@@ -1,0 +1,24 @@
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\bin\Debug\net5.0\Employee.Core.deps.json
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\bin\Debug\net5.0\Employee.Core.dll
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\bin\Debug\net5.0\Employee.Core.pdb
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\obj\Debug\net5.0\Employee.Core.csproj.AssemblyReference.cache
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\obj\Debug\net5.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\obj\Debug\net5.0\Employee.Core.AssemblyInfoInputs.cache
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\obj\Debug\net5.0\Employee.Core.AssemblyInfo.cs
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\obj\Debug\net5.0\Employee.Core.csproj.CoreCompileInputs.cache
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\obj\Debug\net5.0\Employee.Core.dll
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\obj\Debug\net5.0\refint\Employee.Core.dll
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\obj\Debug\net5.0\Employee.Core.pdb
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Core\obj\Debug\net5.0\ref\Employee.Core.dll
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\bin\Debug\net5.0\Employee.Core.deps.json
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\bin\Debug\net5.0\Employee.Core.dll
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\bin\Debug\net5.0\Employee.Core.pdb
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.csproj.AssemblyReference.cache
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.AssemblyInfoInputs.cache
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.AssemblyInfo.cs
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.csproj.CoreCompileInputs.cache
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.dll
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\refint\Employee.Core.dll
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.pdb
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\ref\Employee.Core.dll

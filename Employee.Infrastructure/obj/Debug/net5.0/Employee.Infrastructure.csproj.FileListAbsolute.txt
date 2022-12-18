@@ -1,0 +1,36 @@
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.deps.json
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.runtimeconfig.json
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.runtimeconfig.dev.json
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.dll
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.pdb
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\bin\Debug\net5.0\Employee.Core.dll
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\bin\Debug\net5.0\Employee.Core.pdb
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.AssemblyInfo.cs
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.csproj.CopyComplete
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.dll
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\refint\Employee.Infrastructure.dll
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.pdb
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.genruntimeconfig.cache
+D:\projects\EmployeeManagementCleanArchitecture — копия\Employee.Infrastructure\obj\Debug\net5.0\ref\Employee.Infrastructure.dll
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.deps.json
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.runtimeconfig.json
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.runtimeconfig.dev.json
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.dll
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.pdb
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\bin\Debug\net5.0\Employee.Core.dll
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\bin\Debug\net5.0\Employee.Core.pdb
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.AssemblyInfo.cs
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.csproj.CopyComplete
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.dll
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\refint\Employee.Infrastructure.dll
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.pdb
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.genruntimeconfig.cache
+D:\projects\EmployeeManagementCleanArchitecture\Employee.Infrastructure\obj\Debug\net5.0\ref\Employee.Infrastructure.dll
